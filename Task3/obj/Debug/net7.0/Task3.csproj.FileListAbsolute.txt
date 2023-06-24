@@ -1,0 +1,15 @@
+/home/admin/workspace/C#/lesson8/exam/Task3/bin/Debug/net7.0/Task3
+/home/admin/workspace/C#/lesson8/exam/Task3/bin/Debug/net7.0/Task3.deps.json
+/home/admin/workspace/C#/lesson8/exam/Task3/bin/Debug/net7.0/Task3.runtimeconfig.json
+/home/admin/workspace/C#/lesson8/exam/Task3/bin/Debug/net7.0/Task3.dll
+/home/admin/workspace/C#/lesson8/exam/Task3/bin/Debug/net7.0/Task3.pdb
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.csproj.AssemblyReference.cache
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.AssemblyInfoInputs.cache
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.AssemblyInfo.cs
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.csproj.CoreCompileInputs.cache
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.dll
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/refint/Task3.dll
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.pdb
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/Task3.genruntimeconfig.cache
+/home/admin/workspace/C#/lesson8/exam/Task3/obj/Debug/net7.0/ref/Task3.dll
