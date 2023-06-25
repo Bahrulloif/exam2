@@ -5,21 +5,23 @@ public class Person
     public string? UserName { get; set; }
     public string? Password { get; set; }
 
-  
 
-   public string Login()
-    {       
-            if (UserName == "Admin" && Password=="12345")
-            {
-                return $"Login successful! Welcome mr {FirsName} , {LastName}";
-            } else{
-                return "Login Failed";
-            }
-        
-        
+
+    public string Login()
+    {
+        if (UserName == "Admin" && Password == "12345")
+        {
+            return $"Login successful! Welcome mr {FirsName} , {LastName}";
+        }
+        else
+        {
+            return "Login Failed";
+        }
     }
 
-   public string GetInfo(){
+    public string GetInfo()
+    {
+        System.Console.WriteLine("FirsName    LastName    UserName      Password");
         return $"{FirsName}   {LastName}   {UserName}   {Password}";
     }
 }
