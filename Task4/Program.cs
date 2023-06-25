@@ -1,6 +1,6 @@
 ﻿List<Person> users = new List<Person>();
 
-for (int i = 1; i <= 2; i++)
+for (int i = 1; i <= 5; i++)
 {
     System.Console.WriteLine($"Uer {i}");
     Person user = new Person();
